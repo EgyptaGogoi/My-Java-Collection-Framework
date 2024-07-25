@@ -12,6 +12,41 @@ To run this project or to check how much we could replicate the java collection 
 
 ![collection framework](Overview.png)
 
+## Folder Structure
+
+```plaintext
+src/
+├── main/
+│   ├── java/
+│   │   ├── com/
+│   │   │   ├── yourcompany/
+│   │   │   │   ├── collections/
+│   │   │   │   │   ├── interfaces/
+│   │   │   │   │   │   ├── Iterable.java
+│   │   │   │   │   │   ├── Collection.java
+│   │   │   │   │   │   ├── Queue.java
+│   │   │   │   │   │   ├── Deque.java
+│   │   │   │   │   │   └── List.java
+│   │   │   │   │   ├── classes/
+│   │   │   │   │   │   ├── Vector.java
+│   │   │   │   │   │   ├── ArrayList.java
+│   │   │   │   │   │   ├── Stack.java
+│   │   │   │   │   │   └── LinkedList.java
+│   │   │   │   │   ├── nodes/
+│   │   │   │   │   │   └── Node.java
+│   │   │   │   │   ├── utils/
+│   │   │   │   │   │   └── Iterator.java
+│   │   │   │   │   ├── factory/
+│   │   │   │   │   │   └── CollectionFactory.java
+│   │   │   │   │   └── decorators/
+│   │   │   │   │       ├── SynchronizedCollection.java
+│   │   │   │   │       └── SynchronizedList.java
+│   ├── resources/
+│   └── test/
+│       ├── java/
+│       └── resources
+```
+
 ## Topics Demonstrated
 
 - interable (interface)
