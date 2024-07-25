@@ -1,12 +1,12 @@
 
 # My Java Collection Framework
 
-This is a project where we are building the Java collection framework that demonstrates the understanding on OOP concept of java as well as how working of Java collection framework.
+This is a project where we are building the Java collection framework that demonstrates our understanding of OOP concept of java as well as the workings of Java collection framework.
 
 
 ## Installation
 
-To run this project or to chek how much we could replicate the java collection framework you need to first install java in your local system.
+To run this project or to check how much we could replicate the java collection framework, you need to first install java in your local system.
 
 ## Overview
 
