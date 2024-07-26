@@ -64,6 +64,6 @@ src/
 
 ## Authors
 
-- [@egyptaGogogi](https://github.com/EgyptaGogoi/)
+- [@egyptaGogoi](https://github.com/EgyptaGogoi/)
 
 - [@nayanmoniBaruah](https://github.com/nayan458)
